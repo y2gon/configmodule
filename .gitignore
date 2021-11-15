@@ -1,0 +1,4 @@
+.idea
+android_login.db
+*.pyc
+__pycache__
